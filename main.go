@@ -1,8 +1,10 @@
-package GoCloud
+package main
 
-import "fmt"
+//main learn
 
 func main() {
+	/**
 
-	fmt.Println("测试提交")
+
+	 */
 }
